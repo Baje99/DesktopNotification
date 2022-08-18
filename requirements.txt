@@ -1,0 +1,5 @@
+Required libraries:
+requests
+plyer
+datetime
+time 
