@@ -1,4 +1,5 @@
 # DesktopNotification
+Has it ever happened to you to sit at the computer or laptop and forget that you have something to do. With this application made with python, requests and plyer you can receive at certain intervals data about the COVID situation in your country.
 This app will provide a way to create a customized desktop notifier application for your PC in a few simple steps using python.
 
 We will use request library to get information about coronavirus cases from an website and plyer library to push notification to the desktop
